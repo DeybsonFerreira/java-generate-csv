@@ -1,10 +1,17 @@
-## Getting Started
+# Video Explicativo⭐
+👊 Confira o vídeo abaixo, onde estou explicando passo a passo. Talvez possa te ajudar!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+[![](https://www.youtube.com/watch?v=vcQN_7oWtD0)](https://www.youtube.com/watch?v=vcQN_7oWtD0)
+
+<a href="https://www.youtube.com/watch?v=vcQN_7oWtD0" title="gerando_arquivo_csv">
+  <p align="center">
+    <img width="75%" src="foto.png" alt="gerando_arquivo_csv"/>
+  </p>
+</a>
+
+
 
 ## Folder Structure
-
-The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
